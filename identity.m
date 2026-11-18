@@ -7,7 +7,7 @@ function Y = identity(X)
 %   https://en.wikipedia.org/wiki/Identity_function
 % change from 23b pre-release ... change after rename and archive. will create 2.0
 % packaging
-% test comment for bash
+% test comment for bash. test during 111826 bash
 
     Y = X;
 end
